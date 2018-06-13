@@ -1,0 +1,3 @@
+# phpdatabase
+
+This is a nice simple example of some PHP code that references a MYSQL database for testing OpenShift. With gratitude to gshipley from whom this is forked for the original version - I just made a few tweaks...
